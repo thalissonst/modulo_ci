@@ -17,5 +17,3 @@ Para verificação dos códigos, os arquivos se encontram em:
 
 Desde já, agradeço pela atenção! E coloco-me à sua disposição para quaisquer esclarecimentos =)
 
-## Thalisson S. de Aquino
-
